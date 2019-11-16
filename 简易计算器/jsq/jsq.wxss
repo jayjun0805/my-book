@@ -1,0 +1,37 @@
+/* pages/jsq/jsq.wxss */
+
+.jsqWrap{
+   /* background: red; */
+   padding: 30rpx;  /* 内边距 */
+}
+
+.jsqWrap .numberOne,.jsqWrap .numberTwo{
+   margin: 40rpx 0;
+}
+
+.jsqWrap .numberOne input,.jsqWrap .numberTwo input{
+   border:1rpx solid green;
+   height: 80rpx;
+   border-radius: 10rpx;
+}
+
+.input-placeholder{
+   padding-left: 20rpx;
+}
+
+.jsqWrap .radioGroup{
+   font-size: 40rpx;
+   margin: 40rpx 0;
+}
+
+.jsqWrap .radioGroup radio{
+   width: 25%;
+}
+
+.jsqWrap .startBtn{
+   padding:40rpx 0;
+}
+
+.jsqWrap .result{
+  padding: 40rpx 0;
+}
