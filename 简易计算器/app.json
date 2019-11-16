@@ -1,0 +1,9 @@
+{
+  "pages": [
+    "pages/jsq/jsq"
+  ],
+  "window": {
+    "navigationBarTitleText": "简易计算器"
+  },
+  "sitemapLocation": "sitemap.json"
+}

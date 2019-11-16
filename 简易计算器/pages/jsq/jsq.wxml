@@ -1,7 +1,8 @@
 <!--pages/jsq/jsq.wxml-->
+
 <view class="jsqWrap">
     <view class="numberOne">
-        <input type="digit" placeholder="第一个数"  bindinput="numberOneInput" />
+        <input type="digit" placeholder="第一个数" bindinput="numberOneInput"></input>
     </view>
 
     <radio-group class="radioGroup" bindchange="radioGroupChange">
@@ -12,7 +13,7 @@
     </radio-group>
 
     <view class="numberTwo">
-        <input type="digit" placeholder="第二个数" bindinput="numberTwoInput" />
+        <input type="digit" placeholder="第二个数" bindinput="numberTwoInput"></input>
     </view>
 
     <view class="startBtn">

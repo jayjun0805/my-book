@@ -1,8 +1,7 @@
 /* pages/jsq/jsq.wxss */
 
 .jsqWrap{
-   /* background: red; */
-   padding: 30rpx;  /* 内边距 */
+   padding: 30rpx;
 }
 
 .jsqWrap .numberOne,.jsqWrap .numberTwo{
